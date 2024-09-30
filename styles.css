@@ -269,6 +269,10 @@ nav button {
   font-size: 20px;
 }
 
+/* footer{
+  text-align: center;
+} */
+
 /* media query */
 
 @media screen and (max-width: 768px) {
